@@ -1,13 +1,13 @@
 {
   "name": "my_test_site_gh-pages",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test Site",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "StasKom",
   "license": "ISC",
   "homepage": "https://staskomardin.github.oi/test_site",
   "dependencies": {
