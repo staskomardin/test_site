@@ -12,5 +12,13 @@
   "homepage": "https://staskomardin.github.oi/test_site",
   "dependencies": {
     "gh-pages": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staskomardin/test_site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/staskomardin/test_site/issues"
   }
 }
